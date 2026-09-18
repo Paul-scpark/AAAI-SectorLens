@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZrrXWTd1PIo">
     <img
-      src="http://img.youtube.com/vi/ZrrXWTd1PIo/0.jpg"
-      alt="Demo Video"
+      src="./img/thumbnail.png"
+      alt="SectorLens Demo Video"
       width="800"
     />
   </a>
