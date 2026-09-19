@@ -1,23 +1,5 @@
 # SectorLens: Evidence-Grounded Digital Asset Sector Classification
 
-## 📃 Demo Website
-
-<p align="center">
-  <a href="https://sectorlens.duml.io/aaai-demo-sectorlens/index-ml.html">
-    <img
-      src="./img/website-main.png"
-      alt="SectorLens Demo Website"
-      width="800"
-    />
-  </a>
-</p>
-
-<p align="center">
-  Click the image above to experience SectorLens system.
-</p>
-
-<br/><br/>
-
 ## 📽️ Demo Video
 
 <p align="center">
@@ -32,6 +14,24 @@
 
 <p align="center">
   Click the image above to watch the full demo.
+</p>
+
+<br/><br/>
+
+## 📃 Demo Website
+
+<p align="center">
+  <a href="https://sectorlens.duml.io/aaai-demo-sectorlens/index-ml.html">
+    <img
+      src="./img/website-main.png"
+      alt="SectorLens Demo Website"
+      width="800"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Click the image above to experience SectorLens system.
 </p>
 
 <br/><br/>
